@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-![Design preview for the Social proof section coding challenge](//www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649587%2FChallenges%2Fc5mnesn5eknealmjz4w2.jpg&w=828&q=75)
+![Design preview for the Social proof section coding challenge](https://www.frontendmentor.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdz209s6jk%2Fimage%2Fupload%2Fv1599649587%2FChallenges%2Fc5mnesn5eknealmjz4w2.jpg&w=828&q=75)
 
 ## Welcome! 👋
 
